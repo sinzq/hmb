@@ -30,6 +30,7 @@ tl
     ease: Power4,
 },'b')
 }
+Hom();
 
 gsap.to(".slides",{
     ScrollTrigger: {
@@ -42,5 +43,3 @@ gsap.to(".slides",{
     xPercent: -200,
     ease: power4,
 })
-
-Hom();
